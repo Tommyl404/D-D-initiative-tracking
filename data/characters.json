@@ -1,0 +1,23 @@
+{
+  "schema": 2,
+  "characters": [
+    {
+      "name": "Vaelen",
+      "dexMod": 3,
+      "isPC": true,
+      "tags": ["pc", "paladin"],
+      "defaultHP": 38,
+      "defaultAC": 18,
+      "defaultNotes": "Aura of Protection"
+    },
+    {
+      "name": "Bandit",
+      "dexMod": 2,
+      "isPC": false,
+      "tags": ["npc", "human"],
+      "defaultHP": 11,
+      "defaultAC": 12,
+      "defaultNotes": "Pack tactics"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema": 2,
+  "groups": [
+    {
+      "name": "Bandit Ambush",
+      "entries": [
+        {"character": "Bandit", "count": 4}
+      ]
+    },
+    {
+      "name": "Heroes",
+      "entries": [
+        {"character": "Vaelen", "count": 1}
+      ]
+    }
+  ],
+  "naming": {
+    "pattern": "%name %index",
+    "startIndex": 1,
+    "zeroPad": true,
+    "width": 2
+  }
+}

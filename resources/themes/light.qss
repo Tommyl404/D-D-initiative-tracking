@@ -1,0 +1,3 @@
+/* Placeholder light theme */
+QMainWindow { background: #f7f7f7; }
+QTableView { gridline-color: #d0d0d0; }
