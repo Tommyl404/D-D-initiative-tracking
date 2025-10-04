@@ -1,0 +1,33 @@
+{
+  "schema": 2,
+  "round": 1,
+  "turnIndex": 0,
+  "combatants": [
+    {
+      "id": 1,
+      "name": "Vaelen",
+      "initiative": 18,
+      "dexMod": 3,
+      "isPC": true,
+      "conscious": true,
+      "hp": 38,
+      "ac": 18,
+      "deathSaves": {"successes": 0, "failures": 0, "dead": false, "stable": false},
+      "conditions": [{"name": "Bless", "remainingRounds": 8}],
+      "notes": "Protect the wizard"
+    },
+    {
+      "id": 2,
+      "name": "Bandit 01",
+      "initiative": 14,
+      "dexMod": 2,
+      "isPC": false,
+      "conscious": true,
+      "hp": 11,
+      "ac": 12,
+      "deathSaves": {"successes": 0, "failures": 0, "dead": false, "stable": false},
+      "conditions": [],
+      "notes": ""
+    }
+  ]
+}
