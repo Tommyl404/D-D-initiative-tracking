@@ -1,0 +1,3 @@
+/* Placeholder dark theme */
+QMainWindow { background: #1e1e1e; color: #f0f0f0; }
+QTableView { background: #2b2b2b; color: #f0f0f0; gridline-color: #444; }
